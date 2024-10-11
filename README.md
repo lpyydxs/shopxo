@@ -9,4 +9,5 @@ fofa：icon_hash="1161157653" && is_domain=true
 
 这里直接使用我写的poc演示
 
-![Uploading 图片.png…]()
+![图片](https://github.com/user-attachments/assets/6dd81710-380e-48ec-9402-acf734093993)
+
